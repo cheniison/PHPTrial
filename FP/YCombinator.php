@@ -1,4 +1,5 @@
 <?php
+namespace PHPTrial\FP;
 
 //implement Y Combinator
 
