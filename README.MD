@@ -11,3 +11,9 @@
 ## 目录
 ### FP
 利用PHP进行函数式编程
+### NewFeatures
+一些PHP新特性
++ Trait 性状
+
+## 说明
++ 代码中一些例子和说明引用自 *Mordern PHP*
