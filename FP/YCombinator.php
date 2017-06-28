@@ -1,4 +1,12 @@
 <?php
+/**
+ * @file YCombinator.php
+ * @brief Y 组合子
+ * @author cheniison
+ * @version 1.0.0
+ * @date 2017-06-28
+ */
+
 namespace PHPTrial\FP;
 
 //implement Y Combinator
