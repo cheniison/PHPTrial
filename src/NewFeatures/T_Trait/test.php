@@ -9,9 +9,7 @@
 
 namespace PHPTrial\NewFeatures\T_Trait;
 
-include "Volume.php";
-include "Computer.php";
-include "Phone.php";
+include "../../../Autoloader.php";
 
 echo "Computer:" . PHP_EOL;
 $c = new Computer();
