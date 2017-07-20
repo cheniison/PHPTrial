@@ -13,12 +13,14 @@
 利用PHP进行函数式编程
 ### Message
 使用网易云信向手机发送验证码
-### NewFeatures
-一些PHP新特性
-### T_PDO
-使用pdo操作数据库
 ### mix
 杂项
+### NewFeatures
+一些PHP新特性
+### T_Composer
+使用组件
+### T_PDO
+使用pdo操作数据库
 
 ## 说明
 + 代码中一些例子和说明引用自 *Modern PHP*

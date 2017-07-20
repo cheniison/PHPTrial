@@ -1,0 +1,21 @@
+[
+    {
+        "name": "phptrial/package",
+        "version": "1.0.0",
+        "version_normalized": "1.0.0.0",
+        "dist": {
+            "type": "path",
+            "url": "../T_Package/",
+            "reference": "d4cf5c87397977cd2f22236d7f92317e6308e6dc",
+            "shasum": null
+        },
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "T_Package\\": "./"
+            }
+        },
+        "description": "test composer"
+    }
+]

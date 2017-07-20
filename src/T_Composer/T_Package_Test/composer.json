@@ -1,0 +1,12 @@
+{
+    "name": "phptrial/t_package_test",
+    "require": {
+        "phptrial/package":"*"
+    },
+    "repositories": {
+        "t_package": {
+            "type": "path",
+            "url": "../T_Package"
+        }
+    }
+}

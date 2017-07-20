@@ -1,0 +1,36 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "b6d09dc0e0c029c0abd4a01aa0532a30",
+    "content-hash": "9b3c6f05e97af358f1389bcc074661a8",
+    "packages": [
+        {
+            "name": "phptrial/package",
+            "version": "1.0.0",
+            "dist": {
+                "type": "path",
+                "url": "../T_Package/",
+                "reference": "d4cf5c87397977cd2f22236d7f92317e6308e6dc",
+                "shasum": null
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "T_Package\\": "./"
+                }
+            },
+            "description": "test composer"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

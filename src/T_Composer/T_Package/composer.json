@@ -1,0 +1,12 @@
+{
+    "name": "phptrial/package",
+    "description": "test composer",
+    "version": "1.0.0",
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "T_Package\\": "./"
+        }
+     }
+}
